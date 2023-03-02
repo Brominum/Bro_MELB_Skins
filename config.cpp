@@ -87,6 +87,18 @@ class CfgVehicles
 					"Bro_MELB_Skins\Gold1\melb_ext.rvmat"
 				};
 			};
+			class Bro_Gold2: Bro_Base
+			{
+				displayName = "[Bro] Solid Gold";
+				textures[] = 
+				{
+					"Bro_MELB_Skins\Gold2\melb_ext_co.paa"
+				};
+				materials[] =
+				{
+					"Bro_MELB_Skins\Gold2\melb_ext.rvmat"
+				};
+			};
 			class Bro_Tan: Bro_Base
 			{
 				displayName = "[Bro] Tan";
