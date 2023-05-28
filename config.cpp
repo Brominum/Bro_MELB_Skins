@@ -147,6 +147,14 @@ class CfgVehicles
 					"Bro_MELB_Skins\Floppa\melb_ext_co.paa"
 				};
 			};
+			class Bro_Multicam: Bro_Base
+			{
+				displayName = "[Bro] Multicam";
+				textures[] = 
+				{
+					"Bro_MELB_Skins\MC\melb_ext_co.paa"
+				};
+			};
 		};
 	};
 };
